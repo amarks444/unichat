@@ -4,9 +4,9 @@
 
 ## Introduction
 
-This is a code repository for the unichat app. In this , we create a full-fledged Realtime Chat Application with Social Authentication including google and facebook using firebase , online statuses ,
+This is a code repository for the unichat app. In this , have created a full-fledged Realtime Chat Application with Social Authentication including google and facebook using firebase , online statuses ,
 great design & functionality , image support , sound notifications , the ability to create
-multiple rooms and much more .
+multiple chat groups and much more .
 ### Demo [Link](https://unichatbyamarks444.netlify.app/)
 ### In this we have used :
   1.  React Routing
